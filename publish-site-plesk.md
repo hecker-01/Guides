@@ -12,7 +12,7 @@ Zorg ervoor dat je github repo op `public` staat.
 
 <figure><img src=".gitbook/assets/private_repo.png" alt=""><figcaption><p>Je repo is Private, ga verder.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar <a href="#stap-2">Stap 2</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar <a href="publish-site-plesk.md#stap-2">Stap 2</a></p></figcaption></figure>
 
 #### Klik op Settings
 
@@ -34,7 +34,7 @@ De site online zetten
 
 #### Klik "Add Repository"
 
-<figure><img src=".gitbook/assets/add_repo.png" alt="Add repository"><figcaption><p>Voeg een repository</p></figcaption></figure>
+<figure><img src=".gitbook/assets/add-repo.png" alt="Add repository"><figcaption><p>Voeg een repository</p></figcaption></figure>
 
 #### Kopieer de link van jouw Github repo
 
