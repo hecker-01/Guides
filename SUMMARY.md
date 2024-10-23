@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Page](README.md)
-* [publish-site-plesk](publish-site-plesk.md)
+* [Hoe kan je je site online zetten?](publish-site-plesk.md)
