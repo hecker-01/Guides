@@ -12,7 +12,7 @@ zorg ervoor dat je github repo op `public` staat.
 
 <figure><img src=".gitbook/assets/private_repo.png" alt=""><figcaption><p>Je repo is Private, ga verder.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar [Stap 2](#stap-2)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar <a href="#stap-2">Stap 2</a></p></figcaption></figure>
 
 #### Klik op Settings
 
