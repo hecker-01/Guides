@@ -1,18 +1,25 @@
-# Hoe kan je je site online zetten?
+# How can you publish your site?
 
-# Github
+## Github
 
-Je kan in Plesk een git repo linken aan een folder, dat leg ik hiet uit.
+In Plesk you can link a git repo to a folder, I will explain how to do that here.
 
-## Stap 1
+### Step 1
 
-zorg ervoor dat je github repo op `public` staat.
+Make sure your github repo is set to `public`.
 
-### Ga naar je github repo en bekijk of je repo op public of private staat
+#### Go to your Github repo and look if it is public or private
 
-![Private repo]()
-^ Je repo is private, ga verder
-![Public repo]()
-^ Je repo is public, ga naar [Stap 2](#stap-2)
+<figure><img src=".gitbook/assets/private_repo.png" alt=""><figcaption><p>Je repo is Private, continue on.</p></figcaption></figure>
 
-### Klik op Settings
+<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, go to <a href="#step-2">Step 2</a></p></figcaption></figure>
+
+#### Klik on Settings
+
+<figure><img src=".gitbook/assets/settings.png" alt="Settings"><figcaption><p>Settings</p></figcaption></figure>
+
+
+
+#### Change the visibility
+
+<figure><img src=".gitbook/assets/change_visibility.png" alt="Change visibility"><figcaption><p>Change visibility</p></figcaption></figure>
