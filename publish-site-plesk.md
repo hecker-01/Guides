@@ -18,8 +18,44 @@ Zorg ervoor dat je github repo op `public` staat.
 
 <figure><img src=".gitbook/assets/settings.png" alt="Settings"><figcaption><p>Settings</p></figcaption></figure>
 
-
-
 #### Verander de visibility
 
 <figure><img src=".gitbook/assets/change_visibility.png" alt="Change visibility"><figcaption><p>Change visibility</p></figcaption></figure>
+
+### Stap 2
+
+De site online zetten
+
+#### Ga naar [Plesk](https://web03.sd-lab.nl:8443/) & Log in
+
+#### Klik op "Git"
+
+<figure><img src=".gitbook/assets/click_git.png" alt="Click git"><figcaption><p>Klik op Git</p></figcaption></figure>
+
+#### Klik "Add Repository"
+
+<figure><img src=".gitbook/assets/add_repo.png" alt="Add repository"><figcaption><p>Voeg een repository</p></figcaption></figure>
+
+#### Kopieer de link van jouw Github repo
+
+<figure><img src=".gitbook/assets/copy_link.png" alt="Copy link"><figcaption><p>Kopieer deze link</p></figcaption></figure>
+
+#### Plak de link hierin
+
+<figure><img src=".gitbook/assets/paste_link.png" alt="Paste link"><figcaption><p>Plak de link hierin</p></figcaption></figure>
+
+#### Verander dit naar `/httpdocs/museum-de-pixel`
+
+<figure><img src=".gitbook/assets/change_this.png" alt="Change this"><figcaption><p>Verander Dit naar /httpdocs/museum-de-pixel</p></figcaption></figure>
+
+#### Klik "Create"
+
+<figure><img src=".gitbook/assets/click_create.png" alt="Click create"><figcaption><p>Klik "Create"</p></figcaption></figure>
+
+### Stap 3
+
+De site updates (pull & deploy)
+
+#### Na een commit moet je zelf de site updaten, dit doe je door op "Pull now" & daarna op "Deploy now"
+
+<figure><img src=".gitbook/assets/update.png" alt="Update"><figcaption><p>Klik hierop om de site te updaten</p></figcaption></figure>
