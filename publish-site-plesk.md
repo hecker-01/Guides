@@ -59,3 +59,7 @@ De site updates (pull & deploy)
 #### Na een commit moet je zelf de site updaten, dit doe je door op "Pull now" & daarna op "Deploy now"
 
 <figure><img src=".gitbook/assets/update.png" alt="Update"><figcaption><p>Klik hierop om de site te updaten</p></figcaption></figure>
+
+### Stap 4
+
+Je site staat nu online op https://[leerlingnummer].stu.sd-lab.nl/museum-de-pixel (vervang [leerlingnummer] met je leerlingnummer)
