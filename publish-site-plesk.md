@@ -6,7 +6,7 @@ Je kan in Plesk een git repo linken aan een folder, dat leg ik hiet uit.
 
 ### Stap 1
 
-zorg ervoor dat je github repo op `public` staat.
+Zorg ervoor dat je github repo op `public` staat.
 
 #### Ga naar je github repo en bekijk of je repo op public of private staat
 
