@@ -62,4 +62,4 @@ De site updates (pull & deploy)
 
 ### Stap 4
 
-Je site staat nu online op https://[leerlingnummer].stu.sd-lab.nl/museum-de-pixel (vervang [leerlingnummer] met je leerlingnummer)
+Je site staat nu online op [https://leerlingnummer.stu.sd-lab.nl/museum-de-pixel](https://leerlingnummer.stu.sd-lab.nl/museum-de-pixel) (vervang leerlingnummer met je leerlingnummer)
