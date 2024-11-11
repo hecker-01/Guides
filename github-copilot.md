@@ -14,4 +14,5 @@ Ga naar https://github.com/`jouw-username` en check of je een "Pro" badge ziet.
 
 <figure><img src=".gitbook/assets/SCR-20241111-kgby.png" alt=""><figcaption></figcaption></figure>
 
-Als je deze badge bij je profile ziet, betekent het dat je GitHub Student hebt, en gratis van copilot gebruik kan maken.
+Als je deze badge bij je profile ziet, betekent het dat je GitHub Student hebt, en gratis van copilot gebruik kan maken.\
+Heb je dit niet? Ga naar: [GitHub student aanvragen](github-student.md)
