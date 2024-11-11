@@ -1,3 +1,4 @@
 # Welkom
 
-[https://guides.heckerdev.net/nl-nl/publish-site-plesk](https://guides.heckerdev.net/nl-nl/publish-site-plesk)
+- [Hoe kan je je site online zetten?](publish-site-plesk.md)
+- [Github Copilot](github-copilot.md)
