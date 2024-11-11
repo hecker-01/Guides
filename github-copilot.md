@@ -84,3 +84,8 @@ Copilot Chat is basically ChatGPT alleen dan gespecialiseerd voor code.
 Om Copilot Chat te openen kan je op het Copilot icoon klikken, of kan je **`⌘+SHIFT+I`** gebruiken.
 
 <figure><img src=".gitbook/assets/SCR-20241111-lbpf.png" alt=""><figcaption></figcaption></figure>
+
+En dat is het!\
+Vergeet niet om deze tutorial een rating te geven.
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="132"><figcaption></figcaption></figure>
