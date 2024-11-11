@@ -1,4 +1,8 @@
-# Hoe kan je je site online zetten?
+---
+description: Hoe kan je je site online zetten?
+---
+
+# Je site online zetten
 
 ## Github
 
@@ -12,7 +16,7 @@ Zorg ervoor dat je github repo op `public` staat.
 
 <figure><img src=".gitbook/assets/private_repo.png" alt=""><figcaption><p>Je repo is Private, ga verder.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar <a href="README (1).md#stap-2">Stap 2</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/public_repo.png" alt=""><figcaption><p>Je Repo is public, ga naar <a href="README%20(1).md#stap-2">Stap 2</a></p></figcaption></figure>
 
 #### Klik op Settings
 
