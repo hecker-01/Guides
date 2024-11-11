@@ -66,4 +66,19 @@ Hier heb ik `</h2>` even weggehaalt om het `/fix` commando te laten zien.
 <figure><img src=".gitbook/assets/SCR-20241111-kryp.png" alt=""><figcaption></figcaption></figure>
 
 Copilot snapt meteen het probleem al, ook al heb ik hier geen aanvullende info gegeven.\
-hij fixt het en legt uit wat er fout ging.
+hij fixt het en legt uit wat er fout ging. soms is het alleen wel nodig om extra info te geven, dat kan na het commando
+
+### Stap 3
+
+Copilot gaat ook dingen suggereren als je aan het typen bent als ik bijvoorbeeld deze hele suggestie wil accepteren klik ik op **`TAB`**.\
+Als ik alleen het eerste woord wil accepteren doe ik **`⌘+TAB`**.
+
+<figure><img src=".gitbook/assets/SCR-20241111-kvex.png" alt=""><figcaption></figcaption></figure>
+
+## Copilot Chat
+
+Copilot Chat is basically ChatGPT alleen dan gespecialiseerd voor code.
+
+Om Copilot Chat te openen kan je op het Copilot icoon klikken, of kan je **`⌘+SHIFT+I`** gebruiken.
+
+<figure><img src=".gitbook/assets/SCR-20241111-lbpf.png" alt=""><figcaption></figcaption></figure>
